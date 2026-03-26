@@ -3,6 +3,7 @@
 
 body {
     background-image: url(https://files.lafm.com.co/media/news-images/2026/01/07/135158/millonarios-confirma-regreso-de-radamel-falcao-al-equipo-1200x675.jpg);
+    background-size: cover;
     font-family: 'Dancing Script', cursive;
     background-attachment: fixed;
 }
@@ -18,7 +19,6 @@ h1 {
 .row {
     /*Se agrega una imagen de fondo para el
 ingreso.html*/
-    background-size: cover;
     width: 420px;
     height: 450px;
     padding: 10px;
