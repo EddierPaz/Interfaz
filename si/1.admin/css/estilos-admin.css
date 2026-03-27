@@ -19,7 +19,7 @@
     /*height: 100vh;*/
     max-width: 1280px;
     background: #E2FEB8;
-    margin: auto;
+    margin: auto;   
 }
 
 /* Navegador */
@@ -89,6 +89,7 @@ nav ul li {
 
 nav ul li:hover>ul {
     display: block;
+    width: 192px;
 }
 
 /*opciones*/
